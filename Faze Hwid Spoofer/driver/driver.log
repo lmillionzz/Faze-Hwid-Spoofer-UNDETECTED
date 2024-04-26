@@ -1,0 +1,119 @@
+﻿  Building 'driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping ARM\Debug\driver.inf
+  Stamping [Version] section with DriverVer=04/30/2021,5.55.30.129
+C:\Users\callie\Desktop\Apex\driver\driver.inf(5-5): warning 1324: [Version] section should specify PnpLockdown=1.
+  hook.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18870,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18881,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18895,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18909,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18923,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18938,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18953,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18967,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18981,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18995,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(19010,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(19025,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(19040,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(19237,22): error C2065: 'CP15_TPIDRPRW': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(19237,22): error C3861: '_MoveFromCoprocessor': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(19268,5): error C3861: '_ReadWriteBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(19269,5): error C3861: 'MemoryBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(22794,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(25382,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(27836,9): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(27839,9): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(32008,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(32195,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(32540,40): error C3861: 'InterlockedExchangePointer': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(32589,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(32647,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(32713,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36710,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36735,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36764,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36792,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36814,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36832,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36857,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36880,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36898,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Users\callie\Desktop\Apex\driver\hook.cpp(53,64): warning C4244: 'argument': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+C:\Users\callie\Desktop\Apex\driver\hook.cpp(60,70): warning C4244: 'argument': conversion from 'ULONGLONG' to 'size_t', possible loss of data
+C:\Users\callie\Desktop\Apex\driver\hook.cpp(67,98): warning C4244: 'argument': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+C:\Users\callie\Desktop\Apex\driver\hook.cpp(76,107): warning C4244: 'argument': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18870,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18881,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18895,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18909,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18923,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18938,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18953,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18967,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18981,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18995,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(19010,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(19025,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(19040,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(19237,22): error C2065: 'CP15_TPIDRPRW': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(19237,22): error C3861: '_MoveFromCoprocessor': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(19268,5): error C3861: '_ReadWriteBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(19269,5): error C3861: 'MemoryBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(22794,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(25382,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(27836,9): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(27839,9): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(32008,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(32195,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(32540,40): error C3861: 'InterlockedExchangePointer': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(32589,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(32647,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(32713,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36710,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36735,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36764,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36792,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36814,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36832,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36857,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36880,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36898,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+  memory.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18870,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18881,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18895,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18909,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18923,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18938,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18953,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18967,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18981,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(18995,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(19010,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(19025,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(19040,5): error C3861: '_DataSynchronizationBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(19237,22): error C2065: 'CP15_TPIDRPRW': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(19237,22): error C3861: '_MoveFromCoprocessor': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(19268,5): error C3861: '_ReadWriteBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(19269,5): error C3861: 'MemoryBarrier': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(22794,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(25382,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(27836,9): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(27839,9): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(32008,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(32195,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(32540,40): error C3861: 'InterlockedExchangePointer': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(32589,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(32647,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(32713,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36710,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36735,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36764,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36792,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36814,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36832,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36857,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36880,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\wdm.h(36898,5): error C3861: 'DbgRaiseAssertionFailure': identifier not found
